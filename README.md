@@ -13,6 +13,16 @@ Each day, we tackle and exchange daily Java coding questions to strengthen our f
 - Methods & Functions 🔧
 - Arrays & Basic OOP Concepts 🗂️
 
+## 🔥 Streak Tracker
+
+| Day  | Date              | Status  |
+|------|-------------------|---------|
+| Day 1| 30th September 2024| ✅ Done |
+| Day 2| 1st October 2024   | ✅ Done |
+| Day 3| 2nd October 2024   | 🔄 In Progress |
+| Day 4| 3rd October 2024   | 🔜 Upcoming |
+| Day 5| 4th October 2024   | 🔜 Upcoming |
+
 ## 💻 Participants
 1. [Divya Venu](https://github.com/Divya-venu)
 2. [Shiva Sareddy](https://github.com/Shiva-Sareddy)
