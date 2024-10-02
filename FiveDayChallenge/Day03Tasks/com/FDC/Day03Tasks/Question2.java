@@ -1,4 +1,4 @@
-package com.FDC.Day03;
+package com.FDC.Day03Tasks;
 
 import java.util.Scanner;
 
