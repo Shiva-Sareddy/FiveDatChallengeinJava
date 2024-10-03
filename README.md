@@ -20,7 +20,7 @@ Each day, we tackle and exchange daily Java coding questions to strengthen our f
 | Day 1| 30th September 2024| ✅ Done |
 | Day 2| 1st October 2024   | ✅ Done |
 | Day 3| 2nd October 2024   | ✅ Done |
-| Day 4| 3rd October 2024   | 🔜 Upcoming |
+| Day 4| 3rd October 2024   | ✅ Done |
 | Day 5| 4th October 2024   | 🔜 Upcoming |
 
 ## 💻 Participants
