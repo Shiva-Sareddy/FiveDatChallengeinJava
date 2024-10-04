@@ -21,7 +21,7 @@ Each day, we tackle and exchange daily Java coding questions to strengthen our f
 | Day 2| 1st October 2024   | ✅ Done |
 | Day 3| 2nd October 2024   | ✅ Done |
 | Day 4| 3rd October 2024   | ✅ Done |
-| Day 5| 4th October 2024   | 🔜 Upcoming |
+| Day 5| 4th October 2024   | ✅ Done |
 
 ## 💻 Participants
 1. [Divya Venu](https://github.com/Divya-venu)
